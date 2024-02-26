@@ -17,7 +17,7 @@
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на **Github**
 * [x] Пройти курс по **Git** на **Slurm**
-* [x] Создать свой первый проект на **Github** (https://github.com/fiftinmen/ecocalculator/tree/main)
+* [x] Создать свой первый проект на **Github** - <code><a href="https://github.com/fiftinmen/ecocalculator/tree/main">калькулятор углеродного следа</a></code>)
 * [ ] Пройти базовые курсы на Хекслет по:
 >* [x] Javascript
 >* [x] Python
