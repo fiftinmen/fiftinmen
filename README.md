@@ -3,9 +3,7 @@
 
 Привет, меня зовут Максим Богомолов. Я недавно закончил свой первый мини-проект на JS, CSS, HTML, и начал делать проект на flask. Надеюсь, будет интересно.
 
-<br />
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
+Мой аккаунт на Hexlet <code><a href="https://ru.hexlet.io/u/fiftinmen">тут</a></code>.<br />
   
 **Languages and Tools:**  
 
@@ -20,5 +18,12 @@
 * [x] Прокачать свой профиль на **Github**
 * [x] Пройти курс по **Git** на **Slurm**
 * [x] Создать свой первый проект на **Github** (https://github.com/fiftinmen/ecocalculator/tree/main)
-* [ ] Создать свой первый проект на **Flask**.      
+* [ ] Пройти базовые курсы на Хекслет по:
+>* [x] Javascript
+>* [x] Python
+>* [ ] PHP
+>* [ ] GIT
+>* [ ] командной строке
+>* [x] основы современной вёрстки
+* [ ] Создать свой первый проект на **Flask** с использованием БЭМ-методологии в проектировании frontend-части.      
 <!-- TODO-IST:END -->
