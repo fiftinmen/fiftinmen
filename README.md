@@ -1,4 +1,4 @@
-### Приветствую
+# Приветствую
 
 Меня зовут Максим Богомолов. Я недавно закончил свой первый мини-проект на JS, CSS, HTML. Надеюсь, будет интересно.
 
@@ -6,10 +6,9 @@
 
 Подробнее о себе я рассказал <code><a href="https://fiftinmen.github.io/about_me/">здесь</a></code>.
 
-**Languages and Tools:**  
+## Languages
 
 <span>
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git">
   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python">
   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="javascript">
   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="css">
@@ -17,7 +16,7 @@
 </span>
 
 
-🚧 **Мои задачи на ближайшее время:**
+ ### 🚧Мои задачи на ближайшее время
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на **Github**
 * [x] Пройти курс по **Git** на **Slurm**
